@@ -9,16 +9,6 @@ License: GPL (>=2)
 LazyData: true
 RoxygenNote: 7.2.3
 Depends: R (>= 3.0.0), 
-        adegenet, 
-        ape
-Imports: ade4, 
-        beeswarm, 
-        ggplot2,
-        Hmisc, 
-        knitr,
-        phangorn, 
-        phytools, 
-        pryr, 
-        scales,
+Imports: 
 VignetteBuilder: knitr
 Encoding: UTF-8
